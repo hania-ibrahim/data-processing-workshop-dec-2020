@@ -1,8 +1,8 @@
 # data-processing-workshop-dec-2020
 Resources for the Data visualization, preparation, and transformation using IBM Watson Studio workshop 
 
-- Sign up to IBM Cloud [here]()
+- Sign up to IBM Cloud [here](https://ibm.biz/DataAnalysis)
 - [Workshop instructions](https://developer.ibm.com/tutorials/watson-studio-data-visualization-preparation-transformation/)
 - Slides used in the workshop: [Slides]()
 
-The purpose of this tutorial is to demonstrate features within IBM® Watson™ Studio that help you visualize and gain insights into your data, then cleanse and transform your data to build high-quality predictive models.
+The purpose of this workshop is to demonstrate features within IBM® Watson™ Studio that help you visualize and gain insights into your data, then cleanse and transform your data to build high-quality predictive models.
